@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Lungile 👋
 
-<!--
-**LungilePrincess/LungilePrincess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Aspiring AI Engineer
+- Learning Python, AI, and Data Analytics
+- Building beginner web and AI projects
+- Open to internships and collaborations
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- HTML
+- GitHub
+- Data Analytics
+- AI Fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Goals
+- Build AI projects
+- Learn Machine Learning
+- Grow my developer portfolio
