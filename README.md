@@ -1,19 +1,21 @@
 # Hi, I'm Lungile 👋
 
-## About Me
-- Aspiring AI Engineer
-- Learning Python, AI, and Data Analytics
-- Building beginner web and AI projects
-- Open to internships and collaborations
+Aspiring IT Support & Software Development Professional from South Africa 🇿🇦
+
+- Currently enrolled in CAPACITI
+- Diploma in HR Management
+- Interested in Tech Support, Web Development & Digital Solutions
+- Building projects and improving my technical skills daily
 
 ## Skills
-- Python
 - HTML
-- GitHub
-- Data Analytics
-- AI Fundamentals
+- CSS
+- JavaScript
+- Git & GitHub
+- Customer Support
+- CRM Systems
 
 ## Current Goals
-- Build AI projects
-- Learn Machine Learning
-- Grow my developer portfolio
+- Build real-world projects
+- Grow my GitHub portfolio
+- Secure an internship or remote tech opportunity
