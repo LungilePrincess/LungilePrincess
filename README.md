@@ -40,6 +40,9 @@ I am currently a CAPACITI learner with experience in customer support, operation
 - Community service solution ideas
 
 ## 📫 Connect With Me
-- GitHub: https://github.com/LungilePrincess
+- 🌐 Portfolio: https://insight-forge-088.lovable.app
+- 💼 LinkedIn: https://www.linkedin.com/in/lungile-nzimande-976b7a300
+- 🐙 GitHub: https://github.com/LungilePrincess
+- 📧 Email: nzimandelungile689@gmail.com
 
 ✨ “Growing through learning, building, and consistency.”
